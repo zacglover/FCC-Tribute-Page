@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+
+    #tribute-link {
+        font-weight: bold;
+    }
+  
+  #main {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  ul {
+    text-align: left;
+    display: inline-block;
+  }
+</style>
+
+<main id="main">
+
+<b><h1 id="title"> Allen Iverson </h1></b>
+<p>'Pound for pound, the greatest player ever.'</p>
+
+<div id="img-div">
+<img-div>
+<img id="image" src="https://i.ytimg.com/vi/zJMi5lvQqq8/hqdefault.jpg" alt="Allen Iverson crosses over Michael Jordan."> 
+<imgcaption id="img-caption"> Allen Iverson shakes MJ with a crossover in a game on March 12, 1997.</imgcaption>
+</img-div>
+</div>
+
+<body id="tribute-info">
+    <h2> Here's a timeline of Allen Iverson's life: </h2>
+    <ul>
+        <li> <b>Born:</b> June 7, 1975 </li>
+        <li> <b>1992/1993:</b> Led Bethel High School to Virginia state championships in both basketball & football.</li>
+        <li> <b>1994:</b> Left home to attend Georgetown University & play for legendary basketball coach John Thompson.</li>
+        <li> <b>1995:</b> Won the Big East Rookie of the Year award & led Georgetown to the Sweet 16 Round of the NCAA tournament.</li>
+        <li> <b>1996:</b> Led Georgetown to a Big East championship & the Elite 8 round of the NCAA tournament.</li>
+        <li> <b>1996:</b> Selected first overall by the Philadelphia 76ers in the NBA draft.</li>
+        <li> <b>1997:</b> Won the NBA's Rookie of the Year Award.</li>
+        <li> <b>2001:</b> Won the NBA's MVP Award.</li>
+        <li> <b>2005:</b> Won the NBA's All-Star Game MVP Award.</li>
+        <li> <b>2006:</b> Was traded to the Denver Nuggets.</li>
+        <li> <b>2009:</b> Returned to the Philadelphia 76ers.</li>
+        <li> <b>2013:</b> Officially retired from the NBA.</li>
+        <li> <b>2016:</b> Was inducted into the Naismith Memorial Basketball Hall of Fame.</li>
+    </ul>
+    <p> "I don't want to be another Jordan, Magic, or Isiah. When my career is over, I want to be able to look in the mirror and say 'I did it my way'."<br>
+        --Allen Iverson
+    </p>
+    </ul>
+</body>
+
+<footer>If you have time, you should read more about the great Allen Iverson on his <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Allen_Iverson">Wikipedia page.</a></footer>
+</main>
+</html>
